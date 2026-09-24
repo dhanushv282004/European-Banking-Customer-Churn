@@ -1,0 +1,10 @@
+KPI,Value,Unit
+Overall Churn Rate,20.369999999999997,%
+High-Value Churn Ratio,24.185463659147867,%
+Geographic Risk Index (Germany),159.26953590539938,Index (100 = overall churn)
+Engagement Drop Indicator,12.581823125963803,percentage points
+Active Member Churn Rate,14.269073966220153,%
+Inactive Member Churn Rate,26.850897092183956,%
+Positive-balance median used for high-value split,119839.69,balance units
+Churned balance exposure,185588094.63,balance units
+Churned balance share of total,24.264357302715865,%
